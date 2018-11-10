@@ -1,9 +1,0 @@
-{
-  "name": "server",
-  "return": {
-    "success": "success",
-    "error": "ERROR: input exceeds 10 characters"
-  },
-  "data": {
-  }
-}
