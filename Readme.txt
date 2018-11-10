@@ -5,14 +5,12 @@ Since we are using Node.js, make sure Node has already installed on your compute
 
 Steps:
 1. Create a folder
+
 2. To create a json file, use command: npm init -y
+
 3. To install express, use command: npm install express --save
-<<<<<<< HEAD
-4. We use nodemon for looking changes on server-side and nodemon restarts the server for us, 
-to install nodemon, use command: npm install nodemon --save-dev
-=======
-4. We use nodemon for looking changes on server-side and nodemon restarts the server for us,  to install nodemon, use command: npm install nodemon --save-dev
->>>>>>> f62a73139368e99038b9dfa1bc0bba6ea31c77a9
+
+4. We use nodemon for looking changes on server-side and nodemon restarts the server for us, to install nodemon, use command: npm install nodemon --save-dev
 
 5. To install socket.io, use command: npm install socket.io --save
 
@@ -31,8 +29,4 @@ Usage instructions
 
 To start the server, use command: npm start
 To run the test suite, use command: npm test
-<<<<<<< HEAD
 To send messages from clients, open browser and type: http://localhost:4000/
-=======
-To send messages from clients, open browser and type: http://localhost:4000/
->>>>>>> f62a73139368e99038b9dfa1bc0bba6ea31c77a9
