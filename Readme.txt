@@ -1,4 +1,4 @@
-# Project Documentation
+Project Documentation
 
 ## Project setup
 ### Since we are using Node.js, make sure Node has already installed on your computer
